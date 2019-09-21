@@ -35,5 +35,5 @@
 	收入统计
 	满预警提示
 	超长车提示
-![image](https://github.com/MRStonedb/tools/blob/master/images/carnumber.jpg)
+![image](https://github.com/MRStonedb/tools/blob/master/images/carnuber.jpg)
 

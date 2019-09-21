@@ -1,1 +1,1 @@
-{'APP_ID':'17043521', 'API_KEY':'lKu0IldCe92k7aw5uVLxflYE', 'SECRET_KEY':'IMON0yUnYOMPBKuurG0y7NrqEBf0yOnv'}
+{'APP_ID':'youid', 'API_KEY':'api_key', 'SECRET_KEY':''}
